@@ -1,0 +1,1 @@
+source /home/codespace/.local/share/virtualenvs/react_to_do-JZfWmuwr/bin/activate
