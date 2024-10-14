@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "http://jubilant-goldfish-7jg7rq4449x3p66g-8000.app.github.dev:8000",
+  "proxy": "http://jubilant-goldfish-7jg7rq4449x3p66g-8000.app.github.dev",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
